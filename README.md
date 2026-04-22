@@ -53,7 +53,7 @@ Daily Bitcoin sentiment classification:
 
 ## 📓 Notebooks
 
-### 🔹 `script.ipynb`
+### 🔹 `test_script.ipynb`
 
 * Contains **exploratory analysis and rough work**
 * Includes intermediate steps and experimentation
